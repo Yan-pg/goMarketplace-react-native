@@ -27,7 +27,7 @@
 
 ## 🧐 Sobre <a name = "about"></a>
 
-<div diplay="flex">
+<div diplay="center">
  <img src="./src/assets/print01.svg" alt="Project logo"></a>
  <img src="./src/assets/print2.svg" alt="Project logo"></a>
 </div>
