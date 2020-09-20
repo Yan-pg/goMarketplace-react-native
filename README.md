@@ -29,7 +29,7 @@
 
 <div diplay="flex">
  <img src="./src/assets/print01.svg" alt="Project logo"></a>
- <img src="./src/assets/print02.svg" alt="Project logo"></a>
+ <img src="./src/assets/print2.svg" alt="Project logo"></a>
 </div>
 
 Aplicação do GoFinances feita para gerenciar entradas e saídas de dinheiro, onde você também pode importar aquivos .CSV.
