@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=400px height=400px src="./src/assets/logo.png" alt="Project logo"></a>
+ <img width=400px height=200px src="./src/assets/logo.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Go Market Place</h3>
@@ -28,8 +28,8 @@
 ## 🧐 Sobre <a name = "about"></a>
 
 <div diplay="flex">
- <img src="./src/assets/print01svg" alt="Project logo"></a>
- <img src="./src/assets/print01svg" alt="Project logo"></a>
+ <img src="./src/assets/print01.svg" alt="Project logo"></a>
+ <img src="./src/assets/print02.svg" alt="Project logo"></a>
 </div>
 
 Aplicação do GoFinances feita para gerenciar entradas e saídas de dinheiro, onde você também pode importar aquivos .CSV.
