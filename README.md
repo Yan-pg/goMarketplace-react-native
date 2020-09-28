@@ -35,7 +35,7 @@ Aplicação Go Market Place é um mine e-commerce onde foi consumida uma api fak
 
 ## 🏁 Começando <a name = "getting_started"></a>
 
-Pode tambpem rode em um disponivél fisíco. Para isso é necessário que ele esteja com a <strong>Depuração USB habilitada</string>. Com o seu disponível fisíco conectado no seu celular va até configurações/Sitema/Sobre/Informação do software/Número de versão. Feito isso vai aparecer no que você já um desenvolvedor, logo após pode ir até sitemas/Opção do desenvolvedor e avitar a primera opção e a Depuração USB.
+Pode tambpem rode em um disponivél fisíco. Para isso é necessário que ele esteja com a <strong>Depuração USB habilitada</strong>. Com o seu disponível fisíco conectado no seu celular va até configurações/Sitema/Sobre/Informação do software/Número de versão. Feito isso vai aparecer no que você já um desenvolvedor, logo após pode ir até sitemas/Opção do desenvolvedor e avitar a primera opção e a Depuração USB.
 
 Feito isso, vá até o seu terminal/prompt e executa o comando
 
